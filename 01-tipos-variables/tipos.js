@@ -56,5 +56,9 @@ var usuario = {
     imprimirEnConsola:sumarDosNumeros
 };
 //console.log(usuario.imprimirEnConsola(1,2));
-var arrNumeros = [1,"lenin",true,new Date(),true,sumarDosNumeros(1,5)];
-console.log(arrNumeros);
+var arrNumeros = [1,"lenin",true,new Date(),sumarDosNumeros(1,5),function funcs(){return 1}];
+//console.log(arrNumeros);
+
+for(var aux =0 ; aux<10; aux++){
+    console.log('Aux ' + aux)
+}

@@ -17,9 +17,12 @@ var usuario = {
     //imprimirEnConsola:
 };
 function sumarDosNumeros(numeroUno,numeroDos){
-    return numeroUno + numeroDos;
+    //return numeroUno + numeroDos;
 }
-console.log(sumarDosNumeros(1,2));
+console.log("wlw " + sumarDosNumeros(1,2));
+var sumarDosNumerosV2 = function(numero1,numero2){
+    return numero1 + numero2;
+}
 
 
 console.log("Usuario: ", usuario);

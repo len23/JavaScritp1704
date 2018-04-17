@@ -55,4 +55,6 @@ var usuario = {
     cedula:'0401485370',
     imprimirEnConsola:sumarDosNumeros
 };
-console.log(usuario.imprimirEnConsola(1,2));
+//console.log(usuario.imprimirEnConsola(1,2));
+var arrNumeros = [1,"lenin",true,new Date(),true,sumarDosNumeros(1,5)];
+console.log(arrNumeros);

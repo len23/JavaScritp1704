@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7960367c-dd3e-4001-89a7-afe64dbb32cf" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Typescript/01-tipos-variables.ts" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Typescript/01-tipos-variables.js" afterPath="$PROJECT_DIR$/Typescript/01-tipos-variables.js" />
+      <change beforePath="$PROJECT_DIR$/Typescript/01-tipos-variables.ts" afterPath="$PROJECT_DIR$/Typescript/01-tipos-variables.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -43,8 +43,8 @@
       <file leaf-file-name="01-tipos-variables.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Typescript/01-tipos-variables.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+            <state relative-caret-position="270">
+              <caret line="15" column="2" lean-forward="false" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -151,12 +151,12 @@
       <option name="presentableId" value="Default" />
       <updated>1523993288654</updated>
       <workItem from="1523993289829" duration="5035000" />
-      <workItem from="1524259274973" duration="981000" />
+      <workItem from="1524259274973" duration="1506000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6016000" />
+    <option name="totallyTimeSpent" value="6541000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="20" width="1366" height="744" extended-state="6" />
@@ -240,8 +240,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Typescript/01-tipos-variables.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        <state relative-caret-position="270">
+          <caret line="15" column="2" lean-forward="false" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
           <folding />
         </state>
       </provider>
